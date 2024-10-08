@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Build it, Drive it
+=======
+# Built it, Drive it
+>>>>>>> 777b4ef (added a README and MIT LICENSE)
 
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -6,7 +10,11 @@
 Build and drive virtual cars from your terminal using this command-line application built using Typescript and Inquiry. Create a vehicle from either a Car, Truck or Motorbike or select a pre-fabricated vehicle of the same types. This application prompts the user to create a new vehicle or select an existing vehicle. After going through the vehicle creation or selection process, the user can execute certain actions depending on the selected vehicle. The user is returned to the actions menu after each action. The user can exit the application from the main menu.
 
 ## Table of Contents
+<<<<<<< HEAD
 - [Build it, Drive it](#build-it-drive-it)
+=======
+- [Built it, Drive it](#built-it-drive-it)
+>>>>>>> 777b4ef (added a README and MIT LICENSE)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation, Languages, \& Dependencies](#installation-languages--dependencies)
@@ -43,7 +51,11 @@ Choose one of three pre-made vehicles of either a car, truck or motorbike. Begin
 Once finished, the user may exit the application by using the `'Exit'` action.
 
 ## Walkthrough Demo Video
+<<<<<<< HEAD
 A walkthrough video demoing the *Build it, Drive it* command line application can be viewed via this [link](https://drive.google.com/file/d/1MFtgQYwX65zixTcz2hAQJ1TskYjJi2zk/view).
+=======
+A walkthrough video demoing the *Built it, Drive it* command line application can be viewed via this [link](https://drive.google.com/file/d/1WB7zYiCoslizjyeDyCOK0rmXSSOUKd9U/view).
+>>>>>>> 777b4ef (added a README and MIT LICENSE)
 
 ## License
 This application is covered by the MIT license.

@@ -15,6 +15,8 @@ Build and drive virtual cars from your terminal using this command-line applicat
 =======
 - [Built it, Drive it](#built-it-drive-it)
 >>>>>>> 777b4ef (added a README and MIT LICENSE)
+- [Build it, Drive it](#build-it-drive-it)
+- [Built it, Drive it](#built-it-drive-it)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation, Languages, \& Dependencies](#installation-languages--dependencies)
@@ -23,6 +25,7 @@ Build and drive virtual cars from your terminal using this command-line applicat
     - [Select a Vehicle](#select-a-vehicle)
     - [Exit the Application](#exit-the-application)
   - [Walkthrough Demo Video](#walkthrough-demo-video)
+- [A walkthrough video demoing the *Build it, Drive it* command line application can be viewed via this link.](#a-walkthrough-video-demoing-the-build-it-drive-it-command-line-application-can-be-viewed-via-this-link)
   - [License](#license)
   - [Questions](#questions)
 
